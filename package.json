@@ -1,0 +1,9 @@
+{
+  "name": "nccl-wall-defense",
+  "private": true,
+  "scripts": {
+    "dev": "npx hyperframes@0.8.181 present ./composition",
+    "check": "npx hyperframes@0.8.181 check ./composition",
+    "studio": "npx hyperframes@0.8.181 preview ./composition --background"
+  }
+}
